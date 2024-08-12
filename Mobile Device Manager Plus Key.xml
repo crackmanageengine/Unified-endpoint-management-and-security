@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Information-->
+   <!--More details : Contact Email:  crackmanageengine@gmail.com-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="MDM Demo" EmailID=" crackmanageengine@gmail.com " ExpiryDate="2025-03-31" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TGfJTdP3XG7KSlcfXSbKzJPfGSNT7JPyTQTT7fpy7a7czJR9VSaTdndG7uTlTfRbGaaS9JyQ9aPK9dN7TQzlp" LicenseType="Registered" Name="MDM Demo">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="Professional" Name="ManageEngine Mobile Device Manager Plus" Type="Enterprise" Version="9.0.0"/>
+      <Component Name="Computers">
+         <Properties Name="NumberOfComputers" Value="10"/>
+      </Component>
+      <Component Name="MobileDevices">
+         <Properties Name="NumberOfMobileDevices" Value="unlimited"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>Gv48m8LNKsvY83vdvL8QjMFORvQmKnsvY83vdvL8QjM01sRv4KHmjPFORvQmKnsRv4KHmjPLXNj8ssvFjRpvs8RHRv4Ng0I0IZsKLpsRviXNXMsvY83vdsvL8QjMsvN8iNgviXNXMdjdj</LicenseKey>
+</License>
