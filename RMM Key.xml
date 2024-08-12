@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Information-->
+   <!--More details : Contact Email:  crackmanageengine@gmail.com-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="RMM Demo" EmailID="crackmanageengine@gmail.com" ExpiryDate="2025-05-31" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TKfJTdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7yblSJVGXGPD7dVV9ayRAJVSyubbdGRQ7Kdla" LicenseType="Registered" Name="RMM Demo">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="OEM" Name="AdventNet ManageEngine OpManager" Type="RMM" Version="12.4"/>
+      <Component Name="EndpointManagement">
+         <Properties Name="Enabled" Value="true"/>
+         <Properties Name="NumberOfEndpoint" Value="unlimited"/>
+      </Component>
+      <Component Name="ServerFramework">
+         <Properties Name="NumberOfClients" Value="unlimited"/>
+      </Component>
+      <Component Name="Technicians">
+         <Properties Name="NumberOfTechnicians" Value="unlimited"/>
+      </Component>
+      <Component Name="Agents">
+         <Properties Name="NumberOfAgents" Value="unlimited"/>
+      </Component>
+      <Component Name="VoIP">
+         <Properties Name="NumberOfMonitors" Value="unlimited"/>
+      </Component>
+      <Component Name="SLADashboard">
+         <Properties Name="Enable" Value="yes"/>
+      </Component>
+      <Component Name="VirtualDevicesMonitoring">
+         <Properties Name="NumberOfVirtualHosts" Value="unlimited"/>
+      </Component>
+      <Component Name="Rack3DView">
+         <Properties Name="NumberOfRacks" Value="unlimited"/>
+      </Component>
+      <Component Name="SocialITPlus">
+         <Properties Name="UserCount" Value="unlimited"/>
+      </Component>
+      <Component Name="UCS">
+         <Properties Name="NumberOfUCS" Value="unlimited"/>
+      </Component>
+      <Component Name="WirelessMonitoring">
+         <Properties Name="NumberOfAccessPoints" Value="unlimited"/>
+      </Component>
+      <Component Name="EventLogMonitoring"/>
+      <Component Name="MSExchangeMonitoring"/>
+      <Component Name="ActiveDirectoryMonitoring"/>
+      <Component Name="MSSQLMonitoring"/>
+      <Component Name="SMSNotification"/>
+      <Component Name="RootCauseAnalysis"/>
+      <Component Name="BILLING"/>
+      <Component Name="Storage">
+         <Properties Name="NumberOfDisks" Value="unlimited"/>
+      </Component>
+      <Component Name="NCM">
+         <Properties Name="NumberOfDevices" Value="unlimited"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>Gv48m8LNKsvY83vdFORvQmKnMPnGv48m8LNKsys8dFORvQmKnviXRj4oDnjlljbs8skLXNAvsKXP4jjrNj84XY8F84jnoMoiN8Rj48NjMlBooMiN8Rj48NjMkRj4YvR8dv384YAiN8Rj48NjMviNXCY2goMiN8Rj48NjMijl4Nv3gGv48m8LNKs4N8jpssvYYAFORvQmKniN8Rj48NjMssvLvR8aGv48m8LNKoPwFORvQmKnoPwGv48m8LNK4NKjPRvswsKLptjLX8YjoGv48m8LNKsyYXrFORvQmKnvv8edVyYXrGv48m8LNKs4sjhLXK4R8eFORvQmKniN8Rj48NjMsvY83vdLXK4R8esvkvLQXNgGRXjQCsXdAloGv48m8LNKsRj48NjMFORvQmKnpjjeGv48m8LNKs4NviAFORvQmKns4NviAGv48m8LNKsNX8Y8NCYvtFORvQmKnsNX8Y8NCYvtGv48m8LNKs4Nv8LPFORvQmKnyRjvvmXRfRv3RvoGv48m8LNK4N8jHGNgFORvQmKnvKR4GvLQXNg4NvmviXNXM4N8jHGNgMgOMMrTIW1RviXNXMHOsvN8iNgviXNXMs4vn4Nv3GAdjdj</LicenseKey>
+</License>
