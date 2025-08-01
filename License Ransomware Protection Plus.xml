@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo Ransomware Protection Plus" EmailID="crackmanageengine@gmail.com" ExpiryDate="2025-09-20" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TSfcSdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7ybl9nP77y1bSlc33GaTdnPfp9NTTncJGydD7l9aDQaSnndz9zSbTfVxGebKS9cXGxbbTnN7X9zJAfVPpANDZfdS7SNDndNuxANlfnfb7xPJV" LicenseType="Registered" Name="Demo Ransomware Protection Plus">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="ManageEngine Ransomware Protection Plus" Name="Unified Endpoint Management and Security" Type="Enterprise" Version="11"/>
+	  <Component Name="Technicians">
+         <Properties Name="NumberOfTechnicians" Value="5"/>
+      </Component>
+      <Component Name="AddOnModules">
+         <Properties Name="Multi-lang-Pack" Value="true"/>
+         <Properties Name="FOSEnabled" Value="true"/>
+         <Properties Name="FwsEnabled" Value="true"/>
+      </Component>
+	  <Component Name="Computers">
+			<Properties Name="NumberOfComputers" Value="20"/>
+		</Component>
+      <Component Name="SOM">
+         <Properties Name="Edition" Value="Enterprise"/>
+         <Properties Name="NumberOfComputers" Value="20"/>
+      </Component>
+      <Component Name="ARW">
+         <Properties Name="Edition" Value="Enterprise"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>vs8RHRv4NgNj848GgarA0WsRv4KHmjPFORvQmKnvs8RHRv4NgNj848GgMOo0WsRv4KHmjPFORvQmKnsRv4KHmjPvKR4GvLQXNgsvfvKR4GvLQXNgoOfvKR4yYXpUiNXLU84LKMsvLKGjMNOGGA5sNX8Y8NCYvtFORvQmKnsNX8Y8NCYvtsKLpsNj84Yv4jRpsvRXvmjsNXrsvN8iNgviXNXMvs8RHRv4Ng11k48RKYvosGNXs4NvmviXNXMs4N8jHGNgsGv8F8Nwdjdj</LicenseKey>
+</License>
