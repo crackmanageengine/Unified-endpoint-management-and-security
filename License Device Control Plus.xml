@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo Device Control Plus " EmailID="crackmanageengine@gmail.com" ExpiryDate="2025-10-05" Key="nJbGSnDTGRbp9NS3GAPDKfRRpy7TAdJQdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7ybl9nP77y1b9nzPTQ7l7nduGyTRyKJV9z1bQJRpXG1bpuRX7aRcAnPS7GaJAfVXyGNDndNPxAbDfKcPXKdTc" LicenseType="Registered" Name="Demo Device Control Plus">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="ManageEngine Device Control Plus" Name="Unified Endpoint Management and Security" Type="Enterprise" Version="11"/>
+      <Component Name="Technicians">
+         <Properties Name="NumberOfTechnicians" Value="5"/>
+      </Component>
+      <Component Name="AddOnModules">
+         <Properties Name="Multi-lang-Pack" Value="true"/>
+         <Properties Name="FOSEnabled" Value="true"/>
+         <Properties Name="FwsEnabled" Value="true"/>
+      </Component>
+      <Component Name="SOM">
+         <Properties Name="Edition" Value="Enterprise"/>
+         <Properties Name="NumberOfComputers" Value="30"/>
+		 <Properties Name="NumberOfServers" Value="20"/>
+      </Component>
+      <Component Name="DeviceControl">
+         <Properties Name="DCP_ENABLED" Value="true"/>
+         <Properties Name="Edition" Value="Enterprise"/>
+      </Component>
+	  <Component Name="MobileDevices">
+         <Properties Name="Edition" Value="Enterprise"/>
+         <Properties Name="NumberOfMobileDevices" Value="25"/>
+      </Component>
+	  <Component Name="LicenseDetails">
+         <Properties Name="CustomerID" Value="614-866-1472"/>
+         <Properties Name="LicenseID" Value="614-866-1472"/>
+         <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+         <Properties Name="licenseusertype" Value="Registered"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>GvRv4s8ivrvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8RpWiT1U66EUT16djvsNvY8lWiT1U66EUT16djRvmj4sKPsL8X4vdvsNvY8l5WsvY83vdvL8QjMFORvQmKnvs8RHRv4NgNj848GgsvY83vdvL8QjMvs8RHRv4NgNj848GgvKR4dglbAng7pPdLjR4NjPvY83vd0WsRv3RvoFORvQmKn0VsRv4KHmjPFORvQmKnvs8RHRv4NgNj848GgMOovKR4GvLQXNgsvfvKR4GvLQXNgoOfvKR4yYXpUiNXLU84LKMsvLKGjMNOGGA5sNX8Y8NCYvtFORvQmKnsNX8Y8NCYvtsKLpsLjR4NjPsvY83vdsvN8iNgviXNXMvs8RHRv4Ng11k48RKYvosGNXs4NvmviXNXMs4N8jHGNgsGv8F8Nwdjdj</LicenseKey>
+</License>
