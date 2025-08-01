@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo Endpoint DLP Plus " EmailID="crackmanageengine@gmail.com " ExpiryDate="2025-09-10" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TSfcRdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7yblTfRbGaaTTfN39nSDK3c3Du1b9dRz3G1xfJdPXGPK9dN7yKuD9dPXXAbTJ9ca9zRcAKc7pA1bV9AP7xPJV" LicenseType="Registered" Name="Demo Endpoint DLP Plus ">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="ManageEngine Endpoint DLP Plus" Name="Unified Endpoint Management and Security" Type="Professional" Version="11"/>
+      <Component Name="Technicians">
+         <Properties Name="NumberOfTechnicians" Value="5"/>
+      </Component>
+      <Component Name="AddOnModules">
+         <Properties Name="Multi-lang-Pack" Value="true"/>
+         <Properties Name="FOSEnabled" Value="true"/>
+         <Properties Name="FwsEnabled" Value="true"/>
+      </Component>
+      <Component Name="SOM">
+         <Properties Name="Edition" Value="Enterprise"/>
+         <Properties Name="NumberOfComputers" Value="20"/>
+      </Component>
+      <Component Name="EndpointDLP">
+         <Properties Name="Edition" Value="Enterprise"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>vs8RHRv4NgNj848Ggpld4N8jHGNg0WsRv4KHmjPFORvQmKnvs8RHRv4NgNj848GgMOovKR4GvLQXNgsvfvKR4GvLQXNgoOfvKR4yYXpUiNXLU84LKMsvLKGjMNOGGA5sNX8Y8NCYvtFORvQmKnsNX8Y8NCYvtsKLpsplds4N8jHGNgsvN8iNgviXNXMLXNj8ssvFjRp11k48RKYvosGNXs4NvmviXNXMs4N8jHGNgsGv8F8Nwdjdj</LicenseKey>
+</License>
