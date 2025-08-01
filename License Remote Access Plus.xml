@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo Remote Access Plus" EmailID="crackmanageengine@gmail.com" ExpiryDate="2025-09-15" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TSdJRdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7ybl9nP77y1bSnP77ydD7ndAVS7l7ndPXG1xfJdP7KRDZdVJxAblpnRXSAPlDupS7G1bTKAQ3KbDTGPQ7Kdla" LicenseType="Registered" Name="Demo Remote Access Plus">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+	  <Product Category="ManageEngine Remote Access Plus" Name="Unified Endpoint Management and Security" Type="Professional" Version="11"/>
+	  <Component Name="Technicians">
+         <Properties Name="NumberOfTechnicians" Value="5"/>
+      </Component>
+      <Component Name="AddOnModules">
+         <Properties Name="Multi-lang-Pack" Value="true"/>
+         <Properties Name="FOSEnabled" Value="true"/>
+         <Properties Name="FwsEnabled" Value="true"/>
+      </Component>
+	  <Component Name="SOM">
+         <Properties Name="Edition" Value="Professional"/>
+         <Properties Name="NumberOfComputers" Value="20"/>
+      </Component>
+	  <Component Name="ApplicationControl">
+         <Properties Name="Edition" Value="Professional"/>
+	  </Component>
+	  <Component Name="Tools_Professional">
+         <Properties Name="Edition" Value="Professional"/>
+	  </Component>
+		 <Component Name="LicenseDetails">
+         <Properties Name="CustomerID" Value="666-555-666"/>
+         <Properties Name="LicenseID" Value="666-555-666"/>
+         <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+         <Properties Name="licenseusertype" Value="Registered"/>
+         <Properties Name="GenerationDate" Value="2025-07-30"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>0VUi0U5W0Wv4XdNj84XRvNvDGvRv4s8ivrvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8Rp666U555U666djvsNvY8l666U555U666djRvmj4sKPsL8X4vdvsNvY8lLXNj8ssvFjRpNj848GgLXNj8ssvFjRp7sLjjtLXNj8ssvFjRpNj848GgLjR4NjPNj84XY8LHHA0WsRv4KHmjPFORvQmKnLXNj8ssvFjRpNj848GgMOovKR4GvLQXNgsvfvKR4GvLQXNgoOfvKR4yYXpUiNXLU84LKMsvLKGjMNOGGA5sNX8Y8NCYvtFORvQmKnsNX8Y8NCYvtsKLpsssvYYAsv4jmvrsvN8iNgviXNXMLXNj8ssvFjRp11k48RKYvosGNXs4NvmviXNXMs4N8jHGNgsGv8F8Nwdjdj</LicenseKey>
+</License>
