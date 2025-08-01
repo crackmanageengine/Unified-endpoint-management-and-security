@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo Application Control Plus" EmailID=" crackmanageengine@gmail.com" ExpiryDate="2025-09-30" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TSfcTdP3XG7KSlcfXSbKzJPfGSNT7JPyTQTT7fpy7a7czJR9VSaTdfRbGaaTTup99QTczlpfDunDKJPPVAaSnGRJGyTDTncG971bpuRX7aQJAnczGSbDcfdyXubTZufQG1bbSnR7GeycAnV73Gdbc" LicenseType="Registered" Name="Demo Application Control Plus">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="ManageEngine Application Control Plus" Name="Unified Endpoint Management and Security" Type="Professional" Version="11"/>
+      <Component Name="Technicians">
+         <Properties Name="NumberOfTechnicians" Value="5"/>
+      </Component>
+      <Component Name="AddOnModules">
+         <Properties Name="Multi-lang-Pack" Value="true"/>
+         <Properties Name="FOSEnabled" Value="true"/>
+         <Properties Name="FwsEnabled" Value="true"/>
+      </Component>
+      <Component Name="SOM">
+         <Properties Name="Edition" Value="Enterprise"/>
+         <Properties Name="NumberOfComputers" Value="30"/>
+      </Component>
+	  <Component Name="LicenseDetails">
+         <Properties Name="CustomerID" Value="666-666-666"/>
+         <Properties Name="LicenseID" Value="666-666-666"/>
+         <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+         <Properties Name="licenseusertype" Value="Registered"/>
+         <Properties Name="GenerationDate" Value="2025-07-30"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>0VUi0U5W0Wv4XdNj84XRvNvDGvRv4s8ivrvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8Rp666U666U666djvsNvY8l666U666U666djRvmj4sKPsL8X4vdvsNvY8l0VsRv4KHmjPFORvQmKnvs8RHRv4NgNj848GgMOovKR4GvLQXNgsvfvKR4GvLQXNgoOfvKR4yYXpUiNXLU84LKMsvLKGjMNOGGA5sNX8Y8NCYvtFORvQmKnsNX8Y8NCYvtsKLpsLjR4NjPsNj84XY8LHHAsvN8iNgviXNXMLXNj8ssvFjRp11k48RKYvosGNXs4NvmviXNXMs4N8jHGNgsGv8F8Nwdjdj</LicenseKey>
+</License>
