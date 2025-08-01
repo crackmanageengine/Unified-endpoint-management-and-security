@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+    <!--Information-->
+   <!--More details : Contact Email:  crackmanageengine@gmail.com-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo OS Deployer" EmailID="crackmanageengine@gmail.com " ExpiryDate="2025-09-20" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TSfcSdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7yblTfRbGaaTTJNXXGPD7JcGGyab7KJSyubbdJ1QxAybpuR73AelZnJSTKzlp" LicenseType="Registered" Name="Demo OS Deployer">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="Enterprise" Name="ManageEngine OS Deployer" Type="Enterprise" Version="10.0.0"/>
+	  <Component Name="Technicians">
+         <Properties Name="NumberOfTechnicians" Value="3"/>
+      </Component>
+	  <Component Name="Multilangpack">
+		 <Properties Name="Multi-lang-Pack" Value="true"/>
+      </Component>
+	  <Component Name="FailOverService">
+		 <Properties Name="FOSEnabled" Value="true"/>
+	  </Component>
+	  <Component Name="ForwardingServer">
+		 <Properties Name="FwsEnabled" Value="true"/>
+	  </Component>
+	  <Component Name="AMS">
+		    <Properties Name="Expiry" Value="2025-09-17"/>
+	    </Component>
+	  <Component Name="OSDeployer">
+			<Properties Name="NumberOfServerMachines" Value="10"/>
+			<Properties Name="NumberOfWorkstationMachines" Value="20"/>
+	  </Component>
+   </LicenseeDetails>
+   <LicenseKey>0WsvN8CYXMNj84X4syRjaFORvQmKn01svN8CYXMRv3RvoFORvQmKnRvkjLHvdoOi1UZ0U5W0WkR8H2goMAvKR4GvLQXNgsvfRv3RvoiN8GRXvRjfvKR4GvLQXNgoOfvY83RvoRv3OL8XfvKR4yYXpUiNXLU84LKMyYXHiNXL84LKMVsNX8Y8NCYvtFORvQmKnsNX8Y8NCYvtvs8RHRv4Ngvs8RHRv4Ng0I0I01RvkjLHvdsoOsvN8iNgviXNXMdjdj</LicenseKey>
+</License>
