@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo Patch Manager Plus " EmailID="crackmanageengine@gmail.com" ExpiryDate="2025-08-31" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TQfJTdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7ybl9nP77y1bQlAapSQbTJVf917DJnPJ3G1xfJdPXGPK9dN7VAuDyfpyGGTJAdPQ7nzlSfVuxANlf9cPTAzlp" LicenseType="Registered" Name="Demo Patch Manager Plus ">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="ManageEngine Patch Manager Plus" Name="Unified Endpoint Management and Security" Type="Enterprise" Version="11"/>
+      <Component Name="Technicians">
+         <Properties Name="NumberOfTechnicians" Value="10"/>
+      </Component>
+      <Component Name="AddOnModules">
+         <Properties Name="Multi-lang-Pack" Value="true"/>
+         <Properties Name="FOSEnabled" Value="true"/>
+         <Properties Name="FwsEnabled" Value="true"/>
+      </Component>
+      <Component Name="SOM">
+         <Properties Name="Edition" Value="Enterprise"/>
+         <Properties Name="NumberOfComputers" Value="20"/>
+		 <Properties Name="NumberOfServers" Value="15"/>
+      </Component>
+	  <Component Name="Computers">
+	     <Properties Name="NumberOfComputers" Value="10"/>
+	  </Component>
+	  <Component Name="Servers">
+		 <Properties Name="NumberOfServers" Value="20"/>
+	  </Component>
+	  <Component Name="MobileDevices">
+         <Properties Name="Edition" Value="Enterprise"/>
+		 <Properties Name="NumberOfMobileDevices" Value="20"/>
+      </Component>
+      <Component Name="Patch">
+         <Properties Name="Edition" Value="Enterprise"/>
+      </Component>
+	  <Component Name="AMS">
+		 <Properties Name="Expiry" Value="2025-12-01"/>
+	  </Component>
+	  <Component Name="LicenseDetails">
+         <Properties Name="CustomerID" Value="111-666-666"/>
+         <Properties Name="LicenseID" Value="111-666-666"/>
+         <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+         <Properties Name="licenseusertype" Value="Registered"/>
+         <Properties Name="GenerationDate" Value="2025-07-30"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>0VUi0U5W0Wv4XdNj84XRvNvDGvRv4s8ivrvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8Rp666U666U111djvsNvY8l666U666U111djRvmj4sKPsL8X4vdvsNvY8l10UW1U5W0WkR8H2goMAvs8RHRv4NgNj848GgCY4Xp0WsvY83vdvL8QjMFORvQmKnvs8RHRv4NgNj848GgsvY83vdvL8QjM0WsRv3RvoFORvQmKnsRv3Rvo01sRv4KHmjPFORvQmKnsRv4KHmjP51sRv3RvoFORvQmKn0WsRv4KHmjPFORvQmKnvs8RHRv4NgNj848GgMOovKR4GvLQXNgsvfvKR4GvLQXNgoOfvKR4yYXpUiNXLU84LKMsvLKGjMNOGGA01sNX8Y8NCYvtFORvQmKnsNX8Y8NCYvtsKLpsRviXNXMsCY4XpsvN8iNgviXNXMvs8RHRv4Ng11k48RKYvosGNXs4NvmviXNXMs4N8jHGNgsGv8F8Nwdjdj</LicenseKey>
+</License>
