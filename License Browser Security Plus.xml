@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo Browser Security Plus" EmailID="crackmanageengine@gmail.com" ExpiryDate="2025-10-31" Key="nJbGSnDTGRbp9NS3GAPDKfRRpy7TAfJTdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7ybl9nP77y1bxKJV3f1b7KJP7eNSPJdJDQdDlndz9zSbTfVxGebKx9cXX91bXnJSVGuDDfVP3KNDJ9c17zyDTnyzGxPJV" LicenseType="Registered" Name="Demo Browser Security Plus">
+			<ID>ID</ID>
+		</UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+	  <Product Category="ManageEngine Browser Security Plus" Name="Unified Endpoint Management and Security" Type="Professional" Version="11"/>
+      <Component Name="Technicians">
+         <Properties Name="NumberOfTechnicians" Value="10"/>
+      </Component>
+	  <Component Name="AddOnModules">
+         <Properties Name="Multi-lang-Pack" Value="true"/>
+         <Properties Name="FOSEnabled" Value="true"/>
+         <Properties Name="FwsEnabled" Value="true"/>
+      </Component>
+	  <Component Name="SOM">
+			<Properties Name="Edition" Value="Enterprise"/>
+			<Properties Name="NumberOfComputers" Value="20"/>
+		</Component>
+   </LicenseeDetails>
+   <LicenseKey>0WsRv4KHmjPFORvQmKnvs8RHRv4NgNj848GgMOovKR4GvLQXNgsvfvKR4GvLQXNgoOfvKR4yYXpUiNXLU84LKMsvLKGjMNOGGA01sNX8Y8NCYvtFORvQmKnsNX8Y8NCYvtsKLpsk48RKYvosRvsvjRbsvN8iNgviXNXMLXNj8ssvFjRp11k48RKYvosGNXs4NvmviXNXMs4N8jHGNgsGv8F8Nwdjdj</LicenseKey>
+</License>
