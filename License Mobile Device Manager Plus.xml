@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo Mobile Device Manager Plus " EmailID=" crackmanageengine@gmail.com " ExpiryDate="2025-09-30" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TSfcTdP3XG7KSlcfXSbKzJPfGSNT7JPyTQTT7fpy7a7czJR9VSaTdndS3fblKndG7yyJzJRb3GPD7Gf1pSNTTJVf917DJnPJ3G1xfJdPXGPK9dN7yauDxdN7GSuDpfVxGSNTpfdGSAbTcfNQX9PKQ9ca7z1PR" LicenseType="Registered" Name="Demo Mobile Device Manager Plus">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="Professional" Name="ManageEngine Mobile Device Manager Plus" Type="Enterprise" Version="9.0.0"/>
+      <Component Name="Computers">
+         <Properties Name="NumberOfComputers" Value="10"/>
+      </Component>
+      <Component Name="MobileDevices">
+         <Properties Name="NumberOfMobileDevices" Value="20"/>
+      </Component>
+	  <Component Name="Technicians">
+         <Properties Name="NumberOfTechnicians" Value="5"/>
+      </Component>
+      <Component Name="Multilangpack">
+			<Properties Name="Multi-lang-Pack" Value="true"/>
+		</Component>
+		<Component Name="FailOverService">
+			<Properties Name="FOSEnabled" Value="true"/>
+		</Component>
+		<Component Name="ForwardingServer">
+			<Properties Name="FwsEnabled" Value="true"/>
+		</Component>
+	  <Component Name="LicenseDetails">
+         <Properties Name="CustomerID" Value="614-866-999"/>
+         <Properties Name="LicenseID" Value="614-866-999"/>
+         <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+         <Properties Name="licenseusertype" Value="Registered"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>GvRv4s8ivrvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8RpZZZU66EUT16djvsNvY8lZZZU66EUT16djRvmj4sKPsL8X4vdvsNvY8lvKR4GvLQXNgsvfRv3RvoiN8GRXvRjfvKR4GvLQXNgoOfvY83RvoRv3OL8XfvKR4yYXpUiNXLU84LKMyYXHiNXL84LKM5sNX8Y8NCYvtFORvQmKnsNX8Y8NCYvt0WsvY83vdvL8QjMFORvQmKnsvY83vdvL8QjM01sRv4KHmjPFORvQmKnsRv4KHmjPLXNj8ssvFjRpvs8RHRv4Ng0I0IZsKLpsRviXNXMsvY83vdsvL8QjMsvN8iNgviXNXMdjdj</LicenseKey>
+</License>
