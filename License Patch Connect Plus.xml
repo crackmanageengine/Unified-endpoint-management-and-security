@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo Patch Connect Plus" EmailID="crackmanageengine@gmail.com" ExpiryDate="2025-09-10" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TSfcRdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7ybl9nP77y1bQlAapSQbTKcV91TT7l9a3G1xfJdP7KRDZdVuxANDcdcRyGuDndNS71NDDKAQ3KbDTGpQ7Kdla" LicenseType="Registered" Name="Demo Patch Connect Plus">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="Enterprise" Name="ManageEngine Patch Connect Plus" Type="Enterprise" Version="9.0.0"/>
+	  <Component Name="Technicians">
+         <Properties Name="NumberOfTechnicians" Value="5"/>
+      </Component>
+      <Component Name="ApplicationManagement">
+         <Properties Name="Application-Management" Value="true"/>
+      </Component>
+      <Component Name="Tools">
+         <Properties Name="Tools" Value="true"/>
+      </Component>
+	  <Component Name="SOM">
+         <Properties Name="Edition" Value="Enterprise"/>
+         <Properties Name="NumberOfComputers" Value="20"/>
+		 <Properties Name="NumberOfServers" Value="10"/>
+      </Component>
+	  <Component Name="Computers">
+	     <Properties Name="NumberOfComputers" Value="30"/>
+	  </Component>
+	  <Component Name="Servers">
+		 <Properties Name="NumberOfServers" Value="25"/>
+	  </Component>
+	  <Component Name="MobileDevices">
+         <Properties Name="Edition" Value="Enterprise"/>
+		 <Properties Name="NumberOfMobileDevices" Value="15"/>
+      </Component>
+      <Component Name="Patch">
+         <Properties Name="Edition" Value="Enterprise"/>
+      </Component>
+	  <Component Name="LicenseDetails">
+         <Properties Name="CustomerID" Value="614-866-1472"/>
+         <Properties Name="LicenseID" Value="614-866-1472"/>
+         <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+         <Properties Name="licenseusertype" Value="Registered"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>GvRv4s8ivrvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8RpWiT1U66EUT16djvsNvY8lWiT1U66EUT16djRvmj4sKPsL8X4vdvsNvY8lvs8RHRv4NgNj848GgCY4Xp51svY83vdvL8QjMFORvQmKnvs8RHRv4NgNj848GgsvY83vdvL8QjM5WsRv3RvoFORvQmKnsRv3Rvo0VsRv4KHmjPFORvQmKnsRv4KHmjP01sRv3RvoFORvQmKn0WsRv4KHmjPFORvQmKnvs8RHRv4NgNj848GgMOovKR4sLjjtsLjjtvKR44NvmviXNXMUNj84XY8LHHA4NvmviXNXMNj84XY8LHHA5sNX8Y8NCYvtFORvQmKnsNX8Y8NCYvtvs8RHRv4Ngvs8RHRv4Ng0I0IZsKLps4YvNNjPsCY4XpsvN8iNgviXNXMdjdj</LicenseKey>
+</License>
