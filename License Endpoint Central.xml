@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo Endpoint Central" EmailID=" crackmanageengine@gmail.com " ExpiryDate="2025-09-05" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TSdJQdP3XG7KSlcfXSbKzJPfGSNT7JPyTQTT7fpy7a7czJR9VSaTdndS3fblKndTy1Raudu191dDTKcb91dxSlcGGKRDZdVxSAPDndNzG1aJAnRSyGNDnfpPGznlc" LicenseType="Registered" Name="Demo Endpoint Central">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="ManageEngine Desktop Central" Name="Unified Endpoint Management and Security" Type="Security" Version="11"/>
+      <Component Name="Technicians">
+         <Properties Name="NumberOfTechnicians" Value="5"/>
+      </Component>
+      <Component Name="AddOnModules">
+         <Properties Name="Multi-lang-Pack" Value="true"/>
+         <Properties Name="FOSEnabled" Value="true"/>
+         <Properties Name="FwsEnabled" Value="true"/>
+      </Component>
+      <Component Name="OSDeployer">
+         <Properties Name="NumberOfWorkstationMachines" Value="20"/>
+         <Properties Name="NumberOfServerMachines" Value="10"/>
+      </Component>
+	  <Component Name="EndpointManagement">
+         <Properties Name="Enabled" Value="true"/>
+         <Properties Name="NumberOfEndpoint" Value="30"/>
+      </Component>
+	  <Component Name="Servers">
+			<Properties Name="NumberOfServers" Value="10"/>
+		</Component>
+		<Component Name="ServerFramework">
+         <Properties Name="NumberOfClients" Value="10"/>
+      </Component>
+      <Component Name="Patch">
+         <Properties Name="Edition" Value="Enterprise"/>
+      </Component>
+	  <Component Name="Tools">
+         <Properties Name="Edition" Value="Enterprise"/>
+      </Component>
+	  <Component Name="Security">
+         <Properties Name="Edition" Value="Enterprise"/>
+		 <Properties Name="security-computer-count" Value="10"/>
+      </Component>
+	  <Component Name="MobileDevices">
+         <Properties Name="Edition" Value="Enterprise"/>
+		 <Properties Name="NumberOfMobileDevices" Value="10"/>
+      </Component>
+	  <Component Name="EndpointDLP">
+         <Properties Name="Edition" Value="Enterprise"/>
+      </Component>
+	  <Component Name="Vulnerability">
+	     <Properties Name="VULN_ENABLED" Value="true"/>
+         <Properties Name="Edition" Value="Enterprise"/>
+      </Component>
+	  <Component Name="DeviceControl">
+         <Properties Name="DCP_ENABLED" Value="true"/>
+         <Properties Name="Edition" Value="Enterprise"/>
+      </Component>
+	  <Component Name="SOM">
+         <Properties Name="Edition" Value="Enterprise"/>
+         <Properties Name="NumberOfComputers" Value="20"/>
+		 <Properties Name="NumberOfServers" Value="10"/>
+      </Component>
+	  <Component Name="ApplicationControl">
+         <Properties Name="Edition" Value="Enterprise"/>
+      </Component>
+      <Component Name="ARW">
+         <Properties Name="Edition" Value="Enterprise"/>
+		 <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="security-computer-count" Value="30"/>
+      </Component>
+	  <Component Name="NGAV">
+         <Properties Name="Edition" Value="Enterprise"/>
+		 <Properties Name="Enabled" Value="true"/>
+	  </Component>
+	  <Component Name="EDR">
+         <Properties Name="Edition" Value="Enterprise"/>
+		 <Properties Name="Enabled" Value="true"/>
+	  </Component>
+	  <Component Name="LicenseDetails">
+         <Properties Name="CustomerID" Value="111-555-666"/>
+         <Properties Name="LicenseID" Value="111-555-666"/>
+         <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+         <Properties Name="licenseusertype" Value="Registered"/>
+         <Properties Name="GenerationDate" Value="2025-07-29"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>ZWUi0U5W0Wv4XdNj84XRvNvDGvRv4s8ivrvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8Rp666U555U111djvsNvY8l666U555U111djRvmj4sKPsL8X4vdvsNvY8lvKR4GvLQXNgvs8RHRv4NgNj848GgrdgvKR4GvLQXNgvs8RHRv4NgNj848GgeADn0V4NKjYURv4KHmjYUk48RKYvsvKR4GvLQXNgvs8RHRv4NgNj848GgarAvs8RHRv4NgNj848GgLjR4NjPNj84XY8LHHA01sRv3RvoFORvQmKn0WsRv4KHmjPFORvQmKnvs8RHRv4NgNj848GgMOovs8RHRv4NgNj848GgvKR4dglbAng7pPdLjR4NjPvY83vdvs8RHRv4NgNj848GgvKR4dglbAng7nlwek48L8QXRvNLKevs8RHRv4NgNj848Ggpld4N8jHGNg01svY83vdvL8QjMFORvQmKnvs8RHRv4NgNj848GgsvY83vdvL8QjM014NKjYURv4KHmjYUk48RKYvsvs8RHRv4NgNj848Ggk48RKYvovs8RHRv4NgNj848GgsLjjtvs8RHRv4NgNj848GgCY4Xp01s4Nv8LPFORvQmKnyRjvvmXRfRv3Rvo01sRv3RvoFORvQmKnsRv3Rvo0V4N8jHGNgFORvQmKnvKR4GvLQXNg4NvmviXNXM4N8jHGNg01svN8CYXMRv3RvoFORvQmKn0WsvN8CYXMNj84X4syRjaFORvQmKnRvkjLHvdoOvKR4GvLQXNgsvfvKR4GvLQXNgoOfvKR4yYXpUiNXLU84LKMsvLKGjMNOGGA5sNX8Y8NCYvtFORvQmKnsNX8Y8NCYvtLXR4NvPsHj4ysvdsvN8iNgviXNXMk48RKYvo11k48RKYvosGNXs4NvmviXNXMs4N8jHGNgsGv8F8Nwdjdj</LicenseKey>
+</License>
